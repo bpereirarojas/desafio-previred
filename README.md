@@ -242,6 +242,4 @@ En **Postman**, puedes importar la especificación OpenAPI que se expone en `/v3
     - **CRUD Tareas**: `/api/tasks` (GET, POST, PUT, DELETE)
 4. **Revisar** los logs en caso de errores.
 5. **Postman o cURL** para pruebas adicionales, autenticándote con el JWT donde sea requerido.
-
-Con estos pasos, tienes una guía completa para iniciar, probar y validar el correcto funcionamiento de la aplicación.
 ```
